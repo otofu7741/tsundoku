@@ -153,7 +153,9 @@
 - AIcia Solid Project  
   [youtube@AIcia Splid](https://www.youtube.com/@AIcia_Solid)
 
--  本質を捉えたデータ分析のための分析モデル入門   [Amazon](https://amzn.asia/d/iJeXXWM)  
+-  本質を捉えたデータ分析のための分析モデル入門 
+  [Amazon]
+(https://amzn.asia/d/iJeXXWM)  
   AIciaさんの著書
   
 
