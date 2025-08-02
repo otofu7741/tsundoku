@@ -2,6 +2,42 @@
 
 ---
 
+## 自作・実装系
+
+- Rustで作るプログラミング言語 —— コンパイラ／インタプリタの基礎からプログラミング言語の新潮流まで  
+  [Amazon](https://amzn.asia/d/3PhgqP0)
+
+- 2週間でできる! スクリプト言語の作り方  
+  [Amazon](https://amzn.asia/d/hSzKPjo)
+
+- 型システムのしくみ  
+  [Amazon](https://amzn.asia/d/6aHW1Jh)  
+  簡易版TAPL
+
+- Real World HTTP 第3版  
+  [Amazon](https://amzn.asia/d/61uLbwN)
+
+- コンピュータシステムの理論と実装  
+  [Amazon](https://amzn.asia/d/ingfRDY)
+
+- コンパイラ: 作りながら学ぶ  
+  [Amazon](https://amzn.asia/d/epfbZr5)
+
+- ［作って学ぶ］ブラウザのしくみ  
+  [Amazon](https://amzn.asia/d/hCsNSCy)
+
+- ［作って学ぶ］OSのしくみⅠ メモリ管理、マルチタスク、ハードウェア制御  
+  [Amazon](https://amzn.asia/d/99knhrJ)
+
+- ゼロからのOS自作入門  
+  [Amazon](https://amzn.asia/d/gCT2pgZ)
+
+- ゼロから作るDeep Learning シリーズ  
+  [Ohmsha公式](https://www.ohmsha.co.jp/tabid37.html?Search=%e3%82%bc%e3%83%ad%e3%81%8b%e3%82%89%e4%bd%9c%e3%82%8bDeep+Learning&Mode=0)  
+  Rustでやるの楽しそうかも
+
+---
+
 ## 言語理論
 
 - TAPL  
@@ -14,10 +50,6 @@
 - プログラミング言語の基礎概念  
   [Amazon](https://amzn.asia/d/1MCoX6w)  
   TAPL前段
-
-- 型システムのしくみ  
-  [Amazon](https://amzn.asia/d/6aHW1Jh)  
-  簡易版TAPL
 
 - 新装版 プログラミング言語の基礎理論  
   [Amazon](https://amzn.asia/d/718hzJn)
@@ -64,9 +96,6 @@
 - プロフェッショナルTLS&PKI  
   [Amazon](https://amzn.asia/d/1tHnGSp)
 
-- Real World HTTP 第3版  
-  [Amazon](https://amzn.asia/d/61uLbwN)
-
 - ハッキング・ラボのつくりかた 完全版  
   [Amazon](https://amzn.asia/d/8Wey1rs)
 
@@ -92,9 +121,6 @@
 - The Art of Computer Programming  
   [Amazon](https://amzn.asia/d/j38EZlJ)
 
-- コンピュータシステムの理論と実装  
-  [Amazon](https://amzn.asia/d/ingfRDY)
-
 - ガベージコレクション  
   [Amazon](https://amzn.asia/d/2DbBVM5)
 
@@ -103,15 +129,6 @@
 
 - プログラマーのためのCPU 入門  
   [Amazon](https://amzn.asia/d/4v1fCW9)
-
-- ［作って学ぶ］ブラウザのしくみ  
-  [Amazon](https://amzn.asia/d/hCsNSCy)
-
-- ［作って学ぶ］OSのしくみⅠ メモリ管理、マルチタスク、ハードウェア制御  
-  [Amazon](https://amzn.asia/d/99knhrJ)
-
-- ゼロからのOS自作入門  
-  [Amazon](https://amzn.asia/d/gCT2pgZ)
 
 - ［試して理解］Linuxのしくみ  
   [Amazon](https://amzn.asia/d/8OK8ov4)
@@ -146,17 +163,12 @@
 
 ## 機械学習・AI
 
-- ゼロから作るDeep Learning シリーズ  
-  [Ohmsha公式](https://www.ohmsha.co.jp/tabid37.html?Search=%e3%82%bc%e3%83%ad%e3%81%8b%e3%82%89%e4%bd%9c%e3%82%8bDeep+Learning&Mode=0)  
-  Rustでやるの楽しそうかも
-
 - AIcia Solid Project  
   [youtube@AIcia Splid](https://www.youtube.com/@AIcia_Solid)
 
 -  本質を捉えたデータ分析のための分析モデル入門  
   [Amazon](https://amzn.asia/d/iJeXXWM)  
   AIciaさんの著書
-  
 
 ---
 
